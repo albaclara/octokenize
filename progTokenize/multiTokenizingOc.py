@@ -1,7 +1,7 @@
 # -*-coding:Utf-8 -*
 #multiTokenisingOc.py
 #Eve Séguier
-# 06/06/2018
+# 06/06/2020
 # This program tokenizes all the files that are in the input repertory and puts the result in out repertory
 
 
