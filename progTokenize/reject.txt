@@ -1,0 +1,6 @@
+BBC**** nom propre
+Harris**** nom propre
+,,<PROPER NAME>   **** nombre, ponctu, lettres hors alphabet
+",   **** nombre, ponctu, lettres hors alphabet
+pdf**** word forbidden 
+",zozo   **** nombre, ponctu, lettres hors alphabet
